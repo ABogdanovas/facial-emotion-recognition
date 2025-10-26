@@ -1,7 +1,7 @@
 Dataset download link in COCO json: https://universe.roboflow.com/ds/wOcDbOEUia?key=Hjdo8Who3N
 Dataset source: https://universe.roboflow.com/emotions-dectection/human-face-emotions/dataset/30#
 
-RUN STEPS
+RUN:
 
 1 - Download dataset and unzip it to .../data/default
 
